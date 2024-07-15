@@ -48,8 +48,11 @@ To get a local copy of the project up and running, follow these steps:
 
 ## Screenshots
 
-![Screenshot 1](path-to-screenshot1)
-![Screenshot 2](path-to-screenshot2)
+![Screenshot 1]("C:\Users\RICKEY\Pictures\Screenshots\Screenshot 2024-07-13 160932.png")
+![Screenshot 2]("C:\Users\RICKEY\Pictures\Screenshots\Screenshot 2024-07-13 160906.png")
+![Screenshot 2]("C:\Users\RICKEY\Pictures\Screenshots\Screenshot 2024-07-13 160921.png")
+![Screenshot 4]("C:\Users\RICKEY\Pictures\Screenshots\Screenshot 2024-07-13 160913.png")
+![Screenshot 5]("C:\Users\RICKEY\Pictures\Screenshots\Screenshot 2024-07-15 152745.png")
 
 ## License
 
@@ -63,4 +66,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or feedback, feel free to reach out to me at [your-email@example.com](mailto:your-email@example.com).
+For any questions or feedback, feel free to reach out to me at [your-email@example.com](ravikumarainapudi97@gmail.com).
