@@ -1,4 +1,4 @@
-// ----------------------form-----------------------
+// ----------------------Contact-form-----------------------
 
 
 document.addEventListener('DOMContentLoaded', function () {
@@ -21,8 +21,6 @@ document.addEventListener('DOMContentLoaded', function () {
             }
         });
     });
-
-    // Rest of your JavaScript code...
 
     const closeFormBtn = document.getElementById('closeForm');
     const formContainer = document.getElementById('contactFormContainer');
