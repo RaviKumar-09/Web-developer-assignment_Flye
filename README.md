@@ -12,7 +12,7 @@ This repository contains the solution for the web developer assignment for Fyle.
 
 The objective of this assignment was to create a web page based on the requirements provided by Fyle. I have utilized various resources to gather images, logos, and other necessary assets to complete the project. The final project is published using GitHub Pages.
 
-## Features
+## Feature's
 
 - **HTML**: Structured the content of the web page.
 - **CSS**: Styled the web page to make it visually appealing.

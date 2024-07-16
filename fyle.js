@@ -1,4 +1,4 @@
-// ----------------------Contact-form-----------------------
+// ----------------------Contact Us-form-----------------------
 
 
 document.addEventListener('DOMContentLoaded', function () {
